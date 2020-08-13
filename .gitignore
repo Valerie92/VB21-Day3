@@ -44,7 +44,7 @@ vignettes/*.pdf
 answers/*
 
 
-*-anskey.*
+anskey.*
 
 
 raw_data/*
